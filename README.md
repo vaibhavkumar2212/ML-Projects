@@ -1,1 +1,1 @@
-## End to ML Project on Student Preformance Prediction
+## End to End ML Project on Student Preformance Prediction
